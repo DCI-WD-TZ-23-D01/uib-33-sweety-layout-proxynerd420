@@ -29,9 +29,6 @@ header {
     z-index: 1000;
 }
 
-#navbar {
-}
-
 #navbar, #links, #buttons {
     display: flex;
     justify-content: space-between;
@@ -105,10 +102,6 @@ h1 {
 #pink::before, #pink::after  {
     content: "]";
     color: transparent;
-}
-
-main {
-    
 }
 
 .donuts {
